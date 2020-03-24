@@ -10,7 +10,7 @@ node js
 
 steps to run my CRUD app
 
-=> Clone rpositary using link
+=> Clone repositary using link
 
 => Run commend "npm install"
 
